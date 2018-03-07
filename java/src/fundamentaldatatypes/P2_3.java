@@ -9,7 +9,7 @@ package fundamentaldatatypes;
 
 import java.util.Scanner;
 
-public class P3_3 {
+public class P2_3 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter a number: ");
